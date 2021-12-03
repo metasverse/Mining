@@ -4,5 +4,6 @@
 1.初始化文件夹
 ``
 mkdir chain
+
 mkdir ethash
 ``
