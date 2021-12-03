@@ -8,7 +8,7 @@
 ## 2.下载程序
 
 ``
-https://github.com/metasverse/Mining.git
+git clone https://github.com/metasverse/Mining.git
 ``
 
 ## 3.初始化文件夹
