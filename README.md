@@ -1,14 +1,17 @@
 
 # 获取metasverse原生代币教程
 
+## 1.安装docker
 
-## 1.下载程序
+自行google安装教程
+
+## 2.下载程序
 
 ``
 https://github.com/metasverse/Mining.git
 ``
 
-## 2.初始化文件夹
+## 3.初始化文件夹
 ``
 cd Mining
 ``
@@ -17,7 +20,7 @@ cd Mining
 mkdir chain && ethash
 ``
 
-## 3.修改配置文件miner.ini
+## 4.修改配置文件miner.ini
 
 
 ```ini
@@ -28,7 +31,7 @@ enode=enode://cb1e85fa581c7bb4ac6606e3f5eb51f8231c859444a8b393f2f4b8e9b1533abf9c
 
 ```
 
-## 4.开启挖矿
+## 5.开启挖矿
 ``
 ./run.sh
 ``
